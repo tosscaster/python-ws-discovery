@@ -2,6 +2,11 @@ from wsdiscovery import WSDiscovery
 from onvif import ONVIFCamera, ONVIFError
 import urllib.parse
 
+"""
+pip install --upgrade onvif_zeep
+
+"""
+
 try_auth = [
     ('admin', 'admin'),
     ('test', 'test'),

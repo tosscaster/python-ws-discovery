@@ -9,6 +9,13 @@ Original version created by L.A. Fernando. Code was then forked and maintained
 by Andrei Kopats. Python3 port done by Pieter Jordaan. Packaging, major
 refactoring & command-line client by Petri Savolainen. Python2 support fixes by Michael Leinartas.
 
+Install
+-----
+
+```python
+    python setup.py install
+```
+
 Usage
 -----
 

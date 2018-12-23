@@ -23,7 +23,7 @@ setup(name='WSDiscovery',
       long_description_content_type="text/markdown",
       author='Andrei Kopats',
       author_email='andrei.kopats@gmail.com',
-      url='https://github.com/andreikop/python-ws-discovery.git',
+      url='https://github.com/tosscaster/python-ws-discovery.git',
       classifiers=[
             'Development Status :: 4 - Beta',
             'Environment :: Console',
